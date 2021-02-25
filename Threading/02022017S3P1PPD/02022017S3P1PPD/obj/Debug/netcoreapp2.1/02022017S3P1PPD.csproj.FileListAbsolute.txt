@@ -1,0 +1,11 @@
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\bin\Debug\netcoreapp2.1\02022017S3P1PPD.deps.json
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\bin\Debug\netcoreapp2.1\02022017S3P1PPD.runtimeconfig.json
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\bin\Debug\netcoreapp2.1\02022017S3P1PPD.runtimeconfig.dev.json
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\bin\Debug\netcoreapp2.1\02022017S3P1PPD.dll
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\bin\Debug\netcoreapp2.1\02022017S3P1PPD.pdb
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\obj\Debug\netcoreapp2.1\02022017S3P1PPD.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\obj\Debug\netcoreapp2.1\02022017S3P1PPD.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\obj\Debug\netcoreapp2.1\02022017S3P1PPD.AssemblyInfoInputs.cache
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\obj\Debug\netcoreapp2.1\02022017S3P1PPD.AssemblyInfo.cs
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\obj\Debug\netcoreapp2.1\02022017S3P1PPD.dll
+C:\Users\mihai.osian\source\repos\02022017S3P1PPD\02022017S3P1PPD\obj\Debug\netcoreapp2.1\02022017S3P1PPD.pdb
