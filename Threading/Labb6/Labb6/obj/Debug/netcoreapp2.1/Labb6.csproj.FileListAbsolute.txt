@@ -1,0 +1,11 @@
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\obj\Debug\netcoreapp2.1\Labb6.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\obj\Debug\netcoreapp2.1\Labb6.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\obj\Debug\netcoreapp2.1\Labb6.AssemblyInfoInputs.cache
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\obj\Debug\netcoreapp2.1\Labb6.AssemblyInfo.cs
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\bin\Debug\netcoreapp2.1\Labb6.deps.json
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\bin\Debug\netcoreapp2.1\Labb6.runtimeconfig.json
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\bin\Debug\netcoreapp2.1\Labb6.runtimeconfig.dev.json
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\bin\Debug\netcoreapp2.1\Labb6.dll
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\bin\Debug\netcoreapp2.1\Labb6.pdb
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\obj\Debug\netcoreapp2.1\Labb6.dll
+C:\Users\mihai.osian\source\repos\Labb6\Labb6\obj\Debug\netcoreapp2.1\Labb6.pdb

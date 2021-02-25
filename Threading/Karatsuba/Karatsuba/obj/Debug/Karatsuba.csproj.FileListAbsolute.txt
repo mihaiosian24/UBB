@@ -1,0 +1,7 @@
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\bin\Debug\Karatsuba.exe.config
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\bin\Debug\Karatsuba.exe
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\bin\Debug\Karatsuba.pdb
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\obj\Debug\Karatsuba.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\obj\Debug\Karatsuba.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\obj\Debug\Karatsuba.exe
+C:\Users\mihai.osian\source\repos\Karatsuba\Karatsuba\obj\Debug\Karatsuba.pdb

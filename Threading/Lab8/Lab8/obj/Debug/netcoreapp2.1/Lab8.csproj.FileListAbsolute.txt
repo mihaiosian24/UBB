@@ -1,0 +1,11 @@
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\bin\Debug\netcoreapp2.1\Lab8.deps.json
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\bin\Debug\netcoreapp2.1\Lab8.runtimeconfig.json
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\bin\Debug\netcoreapp2.1\Lab8.runtimeconfig.dev.json
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\bin\Debug\netcoreapp2.1\Lab8.dll
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\bin\Debug\netcoreapp2.1\Lab8.pdb
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\obj\Debug\netcoreapp2.1\Lab8.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\obj\Debug\netcoreapp2.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\obj\Debug\netcoreapp2.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\obj\Debug\netcoreapp2.1\Lab8.AssemblyInfo.cs
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\obj\Debug\netcoreapp2.1\Lab8.dll
+C:\Users\mihai.osian\source\repos\Lab8\Lab8\obj\Debug\netcoreapp2.1\Lab8.pdb

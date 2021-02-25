@@ -1,0 +1,7 @@
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\bin\Debug\PostSharp.dll
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\bin\Debug\PostSharp.xml
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\obj\Debug\PostSharp.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\obj\Debug\PostSharp.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\obj\Debug\PostSharp.csproj.CopyComplete
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\obj\Debug\PostSharp.exe
+C:\Users\mihai.osian\source\repos\PostSharp\PostSharp\obj\Debug\PostSharp.pdb

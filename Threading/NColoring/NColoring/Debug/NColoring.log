@@ -1,0 +1,3 @@
+﻿  NColoring.cpp
+c:\users\mihai.osian\source\repos\ncoloring\ncoloring\ncoloring.cpp(51): warning C4101: 'request': unreferenced local variable
+  NColoring.vcxproj -> C:\Users\mihai.osian\source\repos\NColoring\Debug\NColoring.exe

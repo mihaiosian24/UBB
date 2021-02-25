@@ -1,0 +1,7 @@
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\bin\Debug\Subsets.exe.config
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\bin\Debug\Subsets.exe
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\bin\Debug\Subsets.pdb
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\obj\Debug\Subsets.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\obj\Debug\Subsets.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\obj\Debug\Subsets.exe
+C:\Users\mihai.osian\source\repos\Subsets\Subsets\obj\Debug\Subsets.pdb

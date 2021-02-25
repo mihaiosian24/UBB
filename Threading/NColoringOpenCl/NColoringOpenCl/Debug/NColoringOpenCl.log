@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  NColoringOpenCl.cpp
+c:\intel\opencl\sdk\include\cl\cl.hpp(4645): error C4996: 'clCreateSampler': was declared deprecated
+  c:\intel\opencl\sdk\include\cl\cl.h(1435): note: see declaration of 'clCreateSampler'
+c:\intel\opencl\sdk\include\cl\cl.hpp(5505): error C4996: 'clCreateCommandQueue': was declared deprecated
+  c:\intel\opencl\sdk\include\cl\cl.h(1428): note: see declaration of 'clCreateCommandQueue'
+c:\intel\opencl\sdk\include\cl\cl.hpp(5536): error C4996: 'clCreateCommandQueue': was declared deprecated
+  c:\intel\opencl\sdk\include\cl\cl.h(1428): note: see declaration of 'clCreateCommandQueue'
+c:\intel\opencl\sdk\include\cl\cl.hpp(5553): error C4996: 'clCreateCommandQueue': was declared deprecated
+  c:\intel\opencl\sdk\include\cl\cl.h(1428): note: see declaration of 'clCreateCommandQueue'
+c:\intel\opencl\sdk\include\cl\cl.hpp(6357): error C4996: 'clEnqueueTask': was declared deprecated
+  c:\intel\opencl\sdk\include\cl\cl.h(1442): note: see declaration of 'clEnqueueTask'
+c:\users\mihai.osian\source\repos\ncoloringopencl\ncoloringopencl\ncoloringopencl.cpp(132): warning C4101: 'C': unreferenced local variable

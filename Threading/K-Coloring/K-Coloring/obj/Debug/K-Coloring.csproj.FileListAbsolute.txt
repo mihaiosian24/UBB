@@ -1,0 +1,7 @@
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\bin\Debug\K-Coloring.exe.config
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\bin\Debug\K-Coloring.exe
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\bin\Debug\K-Coloring.pdb
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\obj\Debug\K-Coloring.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\obj\Debug\K-Coloring.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\obj\Debug\K-Coloring.exe
+C:\Users\mihai.osian\source\repos\K-Coloring\K-Coloring\obj\Debug\K-Coloring.pdb

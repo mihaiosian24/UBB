@@ -1,0 +1,10 @@
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\bin\Debug\MemCached.exe.config
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\bin\Debug\MemCached.exe
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\bin\Debug\MemCached.pdb
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\bin\Debug\Enyim.Caching.dll
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\bin\Debug\Enyim.Caching.xml
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\obj\Debug\MemCached.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\obj\Debug\MemCached.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\obj\Debug\MemCached.csproj.CopyComplete
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\obj\Debug\MemCached.exe
+C:\Users\mihai.osian\source\repos\MemCached\MemCached\obj\Debug\MemCached.pdb

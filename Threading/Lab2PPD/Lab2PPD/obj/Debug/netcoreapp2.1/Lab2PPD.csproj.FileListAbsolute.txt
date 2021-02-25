@@ -1,0 +1,11 @@
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\bin\Debug\netcoreapp2.1\Lab2PPD.deps.json
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\bin\Debug\netcoreapp2.1\Lab2PPD.runtimeconfig.json
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\bin\Debug\netcoreapp2.1\Lab2PPD.runtimeconfig.dev.json
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\bin\Debug\netcoreapp2.1\Lab2PPD.dll
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\bin\Debug\netcoreapp2.1\Lab2PPD.pdb
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\obj\Debug\netcoreapp2.1\Lab2PPD.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\obj\Debug\netcoreapp2.1\Lab2PPD.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\obj\Debug\netcoreapp2.1\Lab2PPD.AssemblyInfoInputs.cache
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\obj\Debug\netcoreapp2.1\Lab2PPD.AssemblyInfo.cs
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\obj\Debug\netcoreapp2.1\Lab2PPD.dll
+C:\Users\mihai.osian\source\repos\Lab2PPD\Lab2PPD\obj\Debug\netcoreapp2.1\Lab2PPD.pdb

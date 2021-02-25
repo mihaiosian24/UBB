@@ -1,0 +1,8 @@
+
+job aborted:
+[ranks] message
+
+[0] fatal error
+Fatal error in MPI_Init: Other MPI error, error stack:
+MPI_Init(argc_p=0x0099FBE4, argv_p=0x0099FBE8) failed
+The RPC server is unavailable.  (errno 1722)

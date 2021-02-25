@@ -1,0 +1,7 @@
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\bin\Debug\Convolution.exe.config
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\bin\Debug\Convolution.exe
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\bin\Debug\Convolution.pdb
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\obj\Debug\Convolution.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\obj\Debug\Convolution.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\obj\Debug\Convolution.exe
+C:\Users\mihai.osian\source\repos\Convolution\Convolution\obj\Debug\Convolution.pdb

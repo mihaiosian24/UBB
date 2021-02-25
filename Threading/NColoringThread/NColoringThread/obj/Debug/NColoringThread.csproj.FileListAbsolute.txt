@@ -1,0 +1,7 @@
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\bin\Debug\NColoringThread.exe.config
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\bin\Debug\NColoringThread.exe
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\bin\Debug\NColoringThread.pdb
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\obj\Debug\NColoringThread.csprojAssemblyReference.cache
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\obj\Debug\NColoringThread.csproj.CoreCompileInputs.cache
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\obj\Debug\NColoringThread.exe
+C:\Users\mihai.osian\source\repos\NColoringThread\NColoringThread\obj\Debug\NColoringThread.pdb
